@@ -28,7 +28,7 @@ const userdata = [
         title:"Rohan",
         location:"India",
         designation:"Full Stack Developer",
-        skills:["Ui / ux","React","Framework","HTml","CSS"],
+        skills:["Ui / ux","React","Framework","HTml","CSS","javascript"],
         online:false,
         pf:"Images/pf4.jfif",
     },
